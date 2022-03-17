@@ -6,3 +6,4 @@ Tect Stack : HTML, CSS, JavaScript, Bootstrap.
 - Clothing, Footwear and Handbags pages with sorting functionalies.
 - Cart and Checkout pages.
 - Footer
+![Screenshot (36)](https://user-images.githubusercontent.com/95956493/158863339-b6f617e8-64ff-4e44-b78a-e75396c2388e.png)
