@@ -12,12 +12,12 @@ Tect Stack : HTML, CSS, JavaScript, Bootstrap.
 
 
 
-### This is the Products page of steve madden with sorting and filter functionalities
+This is the Products page of steve madden with sorting and filter functionalities
 ![Screenshot (37)](https://user-images.githubusercontent.com/95956493/159069348-986ffcdd-5b74-4062-a756-b91ac9b6df4f.png)
 
  
  
- ### From a factory in Queens, NY, Steve Madden has revolutionized the shoe industry, merging years of experience with unique and creative designs. Inspired by rock and roll and his New York roots, his vision to provide on-trend women and men with an outlet to express their individuality is innovative, daring, and inspiring.
+From a factory in Queens, NY, Steve Madden has revolutionized the shoe industry, merging years of experience with unique and creative designs. Inspired by rock and roll and his New York roots, his vision to provide on-trend women and men with an outlet to express their individuality is innovative, daring, and inspiring.
  
 ![Screenshot (43)](https://user-images.githubusercontent.com/95956493/159069094-091950f8-12c9-4f6f-b1f4-8649d029c204.png)
 
