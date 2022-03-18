@@ -7,7 +7,7 @@ Tect Stack : HTML, CSS, JavaScript, Bootstrap.
 - Cart and Checkout pages.
 - Footer
 
- 
+ We tried to clone the Steve Madden website from the scratch. Here we implemented Carousel, filter and sorting functinalities
 ![Screenshot (36)](https://user-images.githubusercontent.com/95956493/158863339-b6f617e8-64ff-4e44-b78a-e75396c2388e.png)
 
 
