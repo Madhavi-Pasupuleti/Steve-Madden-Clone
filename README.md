@@ -26,6 +26,7 @@ From a factory in Queens, NY, Steve Madden has revolutionized the shoe industry,
 ## Team members :
 - Madhavi
 - Mayur
-- Sachin
-- Dhiraj
-- Saran
+- Vattsal
+- Sahil
+- Ajinkya
+- Neeraj
